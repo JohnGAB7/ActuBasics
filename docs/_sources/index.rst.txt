@@ -1,0 +1,54 @@
+================================================
+Documentation de "Programmer avec Python"
+================================================
+
+Bienvenue sur la documentation de **Programmer avec Python**. Ce projet est conçu pour fournir des ressources, tutoriels, et guides pour apprendre la programmation en Python.
+
+## Qu'est-ce que Programmer avec Python ?
+
+.. image:: _static/pyth.png
+   :alt: Logo pyth
+
+**Ci-dessus :** *Un aperçu des ressources offertes par le projet*
+
+.. note::
+   📘 **Note :** Consultez :doc:`Introduction` pour une vue d'ensemble de Python et des outils de développement.
+
+Le projet "Programmer avec Python" aide les utilisateurs à développer des compétences en Python, explorer des concepts avancés, et découvrir des applications concrètes à travers des exemples et des exercices.
+
+## Par où commencer ?
+
+Pour démarrer, explorez les sections suivantes :
+
+- **Notions de base** : Apprenez les fondamentaux de Python.
+- **Programmation avancée** : Explorez des sujets avancés comme la programmation orientée objet et la manipulation de données.
+- **Projets pratiques** : Mettez vos connaissances en application avec des projets concrets.
+
+## Table des matières
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Sections principales
+
+
+   Introduction
+
+## Ressources
+
+
+.. csv-table:: 
+   :header: "Site", "Description"
+   :widths: 18, 35
+
+   "Python.org", "Ressources et documentation officielle de Python"
+   "Jupyter Documentation", "Documentation de Jupyter pour l'exploration des notebooks"
+   "NumPy Documentation", "Documentation pour les calculs scientifiques"
+   "Pandas Documentation", "Documentation pour la manipulation des données"
+   "Stack Overflow", "Forum d'entraide pour les questions Python"
+   "NumFocus", "Organisation soutenant des projets scientifiques open source"
+   "Donations Python", "Soutenir la communauté Python"
+
+## Index et tables
+
+* :ref:`genindex`
+* :ref:`search`

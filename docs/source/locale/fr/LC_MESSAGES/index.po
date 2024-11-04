@@ -1,0 +1,50 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, John GABARY
+# This file is distributed under the same license as the Programmer avec
+# Python package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Programmer avec Python \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-11-02 02:17+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: fr\n"
+"Language-Team: fr <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../../index.rst:12
+msgid "Table des matières :"
+msgstr ""
+
+#: ../../index.rst:7
+msgid "Programmer avec Python"
+msgstr ""
+
+#: ../../index.rst:10
+msgid "Bienvenue dans la Documentation de Mon Projet Programmer avec Python"
+msgstr ""
+
+#: ../../index.rst:19
+msgid "Indices et tables"
+msgstr ""
+
+#: ../../index.rst:21
+msgid ":ref:`genindex`"
+msgstr ""
+
+#: ../../index.rst:22
+msgid ":ref:`modindex`"
+msgstr ""
+
+#: ../../index.rst:23
+msgid ":ref:`search`"
+msgstr ""
+

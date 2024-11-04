@@ -1,0 +1,40 @@
+Introduction
+============
+
+Dans les exemples suivants, l'entrée et la sortie sont distinguées par la présence ou l'absence de prompts (``>>>`` et ``...``) : pour répéter l'exemple, vous devez taper tout ce qui suit le prompt, lorsque le prompt apparaît ; les lignes qui ne commencent pas par un prompt sont des sorties de l'interpréteur.
+
+Vous pouvez basculer l'affichage des prompts et des sorties en cliquant sur ``>>>`` dans le coin supérieur droit d'une boîte d'exemple. Si vous masquez les prompts et les sorties pour un exemple, vous pouvez facilement copier et coller les lignes d'entrée dans votre interpréteur.
+
+Beaucoup des exemples dans ce manuel, même ceux entrés au prompt interactif, incluent des commentaires. Les commentaires en Python commencent par le caractère dièse, ``#``, et s'étendent jusqu'à la fin de la ligne physique. Un commentaire peut apparaître au début d'une ligne ou après un espace ou du code, mais pas à l'intérieur d'un littéral de chaîne. Un caractère dièse à l'intérieur d'un littéral de chaîne est juste un caractère dièse. Comme les commentaires servent à clarifier le code et ne sont pas interprétés par Python, ils peuvent être omis lors de la saisie des exemples.
+
+Quelques exemples :
+
+.. code-block:: python
+
+    # ceci est le premier commentaire
+    spam = 1  # et ceci est le deuxième commentaire
+              # ... et maintenant un troisième !
+    text = "# Ceci n'est pas un commentaire car il est à l'intérieur des guillemets."
+
+Utiliser Python comme une Calculatrice
+--------------------------------------
+
+Essayons quelques commandes Python simples. Démarrez l'interpréteur et attendez le prompt principal, ``>>>``. (Cela ne devrait pas prendre longtemps.)
+
+Les Nombres
+~~~~~~~~~~~
+
+L'interpréteur agit comme une calculatrice simple : vous pouvez taper une expression et il affichera la valeur. La syntaxe des expressions est simple : les opérateurs ``+``, ``-``, ``*`` et ``/`` peuvent être utilisés pour effectuer des opérations arithmétiques ; les parenthèses ``()`` peuvent être utilisées pour grouper. Par exemple :
+
+.. code-block:: python
+
+    >>> 2 + 2
+    4
+    >>> 50 - 5*6
+    20
+    >>> (50 - 5*6) / 4
+    5.0
+    >>> 8 / 5  # la division renvoie toujours un nombre à virgule flottante
+    1.6
+
+Les nombres entiers (par exemple 2, 4, 20) ont le type ``int``, ceux avec une partie fractionnaire (par exemple 5.0, 1.6) ont le type ``float``. Nous verrons plus sur les types numériques plus tard dans le tutoriel.

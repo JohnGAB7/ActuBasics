@@ -1,0 +1,91 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, John GABARY
+# This file is distributed under the same license as the Programmer avec
+# Python package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Programmer avec Python \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-11-02 02:17+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../../Introduction.rst:2
+msgid "Introduction"
+msgstr ""
+
+#: ../../Introduction.rst:4
+msgid ""
+"Dans les exemples suivants, l'entrée et la sortie sont distinguées par la"
+" présence ou l'absence de prompts (``>>>`` et ``...``) : pour répéter "
+"l'exemple, vous devez taper tout ce qui suit le prompt, lorsque le prompt"
+" apparaît ; les lignes qui ne commencent pas par un prompt sont des "
+"sorties de l'interpréteur."
+msgstr ""
+
+#: ../../Introduction.rst:6
+msgid ""
+"Vous pouvez basculer l'affichage des prompts et des sorties en cliquant "
+"sur ``>>>`` dans le coin supérieur droit d'une boîte d'exemple. Si vous "
+"masquez les prompts et les sorties pour un exemple, vous pouvez "
+"facilement copier et coller les lignes d'entrée dans votre interpréteur."
+msgstr ""
+
+#: ../../Introduction.rst:8
+msgid ""
+"Beaucoup des exemples dans ce manuel, même ceux entrés au prompt "
+"interactif, incluent des commentaires. Les commentaires en Python "
+"commencent par le caractère dièse, ``#``, et s'étendent jusqu'à la fin de"
+" la ligne physique. Un commentaire peut apparaître au début d'une ligne "
+"ou après un espace ou du code, mais pas à l'intérieur d'un littéral de "
+"chaîne. Un caractère dièse à l'intérieur d'un littéral de chaîne est "
+"juste un caractère dièse. Comme les commentaires servent à clarifier le "
+"code et ne sont pas interprétés par Python, ils peuvent être omis lors de"
+" la saisie des exemples."
+msgstr ""
+
+#: ../../Introduction.rst:10
+msgid "Quelques exemples :"
+msgstr ""
+
+#: ../../Introduction.rst:20
+msgid "Utiliser Python comme une Calculatrice"
+msgstr ""
+
+#: ../../Introduction.rst:22
+msgid ""
+"Essayons quelques commandes Python simples. Démarrez l'interpréteur et "
+"attendez le prompt principal, ``>>>``. (Cela ne devrait pas prendre "
+"longtemps.)"
+msgstr ""
+
+#: ../../Introduction.rst:25
+msgid "Les Nombres"
+msgstr ""
+
+#: ../../Introduction.rst:27
+msgid ""
+"L'interpréteur agit comme une calculatrice simple : vous pouvez taper une"
+" expression et il affichera la valeur. La syntaxe des expressions est "
+"simple : les opérateurs ``+``, ``-``, ``*`` et ``/`` peuvent être "
+"utilisés pour effectuer des opérations arithmétiques ; les parenthèses "
+"``()`` peuvent être utilisées pour grouper. Par exemple :"
+msgstr ""
+
+#: ../../Introduction.rst:40
+msgid ""
+"Les nombres entiers (par exemple 2, 4, 20) ont le type ``int``, ceux avec"
+" une partie fractionnaire (par exemple 5.0, 1.6) ont le type ``float``. "
+"Nous verrons plus sur les types numériques plus tard dans le tutoriel."
+msgstr ""
+
